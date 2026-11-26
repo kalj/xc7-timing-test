@@ -100,3 +100,7 @@ For another board, change the pins in `timing3.xdc` (12 MHz clock, two
 LEDs, the RGB LED, a button and the UART TX), `CLKIN_MHZ` in
 `gen_params.py`, the part in `tt.py` and the Tcl scripts, and `TICKS`
 and `BAUD_DIV` in `timing_test3.v` if the reference clock isn't 12 MHz.
+
+## License
+
+ISC; see `LICENSE`.
